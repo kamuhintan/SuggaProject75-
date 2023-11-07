@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuggaProject", "SuggaProject\SuggaProject.csproj", "{586B590E-C72C-49FA-9316-6A621F929966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{586B590E-C72C-49FA-9316-6A621F929966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586B590E-C72C-49FA-9316-6A621F929966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586B590E-C72C-49FA-9316-6A621F929966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586B590E-C72C-49FA-9316-6A621F929966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4558909D-A34C-4ABB-AF5C-635EC8F7249E}
+	EndGlobalSection
+EndGlobal
